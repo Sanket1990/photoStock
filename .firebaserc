@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "photostock-c44ce"
-  }
+    "default": "photostock-dev",
+    "daily": "photostock-dev"
+  },
+  "targets": {},
+  "etags": {}
 }
